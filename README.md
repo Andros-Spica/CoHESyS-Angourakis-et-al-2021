@@ -1,7 +1,7 @@
 [![DOI]()]()
 
 # The Indus Village model: a bottom-up, local-scale approach to modelling socio-ecological systems
-Presentation for CoHESyS group meeting, School of Geography and the Environment, University of Oxford (3 June 2021)
+Presentation for CoHESyS group meeting (virtual), School of Geography and the Environment, University of Oxford (3 June 2021)
 
 CoHESyS is a group based in the School of Geography and the Environment, University of Oxford, studying the dynamics of coupled human-environmental systems, using analytical and computational methods. CoHESyS page: https://www.cohesys-lab.net/
 
