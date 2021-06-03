@@ -7,8 +7,7 @@ CoHESyS is a group based in the School of Geography and the Environment, Univers
 
 Prepared with *reveal.js* (see https://revealjs.com/)
 
-**Slides with optional audio (approx. 32 min.)**: https://andros-spica.github.io/CoHESyS-Angourakis-et-al-2021/  
-NOTE: the text corresponding to the audio is available in the 'speaker view' by pressing 'S'. 
+**Slides**: https://andros-spica.github.io/CoHESyS-Angourakis-et-al-2021/  
 
 **Authors**  
 Angourakis, Andreas
