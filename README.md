@@ -1,4 +1,4 @@
-[![DOI]()]()
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4897751.svg)](https://doi.org/10.5281/zenodo.4897751)
 
 # The Indus Village model: a bottom-up, local-scale approach to modelling socio-ecological systems
 Presentation for CoHESyS group meeting (virtual), School of Geography and the Environment, University of Oxford (3 June 2021)
